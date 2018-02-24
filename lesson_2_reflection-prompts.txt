@@ -11,23 +11,26 @@ and which changes should be committed
 How can you use the staging area to make sure you have one commit per logical
 change?
 
-
+	using the command "git diff --staged" 
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
-
+	when I want to have different version of the same work.
+	I can make some changes whitout loosing my "master" version, keeping it organized
 
 How do the diagrams help you visualize the branch structure?
 
-
+	I can see commits on its forks
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
-
+	Put together all the commits of 2 or more branches, add all the functionality of them
+	They are the summ of his branches parents
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
 
-	
+	Automatic merging is quick and easy, but if you have a conflict you must solve 
+	manually, for avoid mistake
