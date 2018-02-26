@@ -16,4 +16,11 @@ What is the benefit of having a copy of the last known state of the remote store
 
 	So I don't lose any update and I can merge with my commit, having a new master
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+	It should be very difficult if you aren't in the same office, but it could be more simply
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+	When I need to check if we have conflicts or if I want to share whit my mate new changes befor submitting
 	
